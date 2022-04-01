@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&family=Roboto:ital,wght@1,100&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+body{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 16px;
+	margin: 0px;
+	color: white;
+	background-color: #28262c;
+}
+h1,h2{
+	font-family: 'Red Hat Mono', monospace;
+	font-weight: bold;
+}
+
+h3{
+	font-family: 'Red Hat Mono', monospace;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Bebas Neue', cursive;
+}
+
+#center-text{
+
+	text-align: center;
+
+}
+

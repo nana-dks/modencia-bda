@@ -1,0 +1,75 @@
+.big-cards {
+  display: flex;
+	flex-wrap: wrap;
+}
+.big-cards{
+  flex-basis: 250px;
+	flex-grow: 1;
+	margin: none;
+}
+
+.card-one {
+	height: 325px;
+	padding: 20px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 30px;
+	flex-basis: 300px;
+	flex-wrap: wrap;
+	}
+
+
+
+.card-two {
+	height: 325px;
+	display: flex;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 30px;
+	flex-basis: 300px;
+	flex-wrap: wrap;
+  }
+
+#img-tropheedelamode{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/trophy.jpg);
+}
+
+#img-luxe{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/luxe.jpg);
+}
+
+#img-streetwear{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/streetwear.jpg);
+}
+
+#img-ethique{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/ethique.jpg);
+}
+
+#img-outfit{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/outfit.jpg);
+}
+
+#img-makeup{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/makeup.jpg);
+}
+
+#img-activities{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/activités.jpg);
+}
+
+#img-partners{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%),url(../../images/partners.jpg);
+}
+
+#img-team{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/equipe.jpg);
+}
+
